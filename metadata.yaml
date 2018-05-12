@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38197
     wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Gestoso_y_P%C3%A9rez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36318#Curiosidades-antiguas-sevillanas--13--serie-segunda-
 gutenberg_issued: '2011-06-03'
 gutenberg_type: Text
 identifiers:
