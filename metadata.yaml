@@ -1,0 +1,31 @@
+_repo: Curiosidades-antiguas-sevillanas--13--serie-segunda-_36318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gestoso y Pérez, José
+    aliases:
+    - Gestosos y Pérez, José
+    - Gestoso y Perez, Jose
+    - Pérez, José Gestoso y
+    birthdate: 1852
+    deathdate: 1917
+    gutenberg_agent_id: '38197'
+    url: http://www.gutenberg.org/2009/agents/38197
+    wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Gestoso_y_P%C3%A9rez
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36318'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Andalusia (Spain)'
+title: "Curiosidades antiguas sevillanas\r\n(serie segunda)"
+url: http://www.gutenberg.org/ebooks/36318
